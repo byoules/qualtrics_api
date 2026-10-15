@@ -1,0 +1,13 @@
+# Qualtrics survey exports can contain sensitive participant data.
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.env
+.env*
+.Rhistory
+.RData
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
